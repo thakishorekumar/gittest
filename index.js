@@ -1,0 +1,1 @@
+const summa = oonum illa pa;
